@@ -1,4 +1,17 @@
 ### Hi there 👋
+<!-- <p align="center">
+</p> -->
+<h1 align="center">Hey there, I'm <a href="https://github.com/Riamari/riamari.git">Maria<a>👋</h1>
+    <Br>
+    <h1>About Me! 😎</h1>
+    <ul>
+    <li>😇I am currently learning frontend development</li>
+    <li>🤗 I would absolutely love to meet you </li>
+    <li>😩 I would appriciate as much help as I can get </li> 
+    <li> ✉️ riaemordi@gmail.com </li>
+    </ul>
+    
+
 
 <!--
 **Riamari/riamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
